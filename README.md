@@ -30,5 +30,5 @@ pip3 install -r requirements.txt
 
 para rodar o screapping basta digitar o seguinte commando
 ```
-python python scraper.py
+python scraper.py
 ``` 
