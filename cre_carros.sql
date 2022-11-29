@@ -1,0 +1,1 @@
+\echo '++++++  Executing cre_carros.sql file ....'
