@@ -28,6 +28,6 @@ GRANT pg_write_server_files TO :dbuser;     -- escrita de arquivos
 -- SET ROLE :dbuser;
 SET SESSION AUTHORIZATION :dbuser;
 
--- executar scripts 
+-- executar scripts
 \i ./cre_carros.sql
 \i ./popul_carros.sql

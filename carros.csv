@@ -9,7 +9,6 @@ id,nome,motor,year,km,valor,localizacao,categoria,url
 8,EXCALIBUR,Motor 3.0 32v,Ano 2009 , 81.251 km,R$ 114.000,Rio de Janeiro - RJ,USADO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/excalibur/excalibur-2916730__340.jpg
 9,MCLAREN,Motor Diesel,Ano 2019 , 0 km,R$ 75.000,São Paulo - SP,NOVO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/mclaren/mclaren-2855240__340.jpg
 10,TOYOTA,Motor 4.0 Turbo,Ano 1999 , 12.536 km,R$ 117.000,São Paulo - SP,USADO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/toyota/toyota-3245397__340.jpg
-10,VOLKSWAGEN BEETLE,Motor 1.0 8v,Ano 2019 , 0 km,R$ 177.000,Rio de Janeiro - RJ,NOVO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/volkswagen-beetle/volkswagen-beetle-3295906__340.png
 11,SPIRIT OF ECSTASY,Motor 3.0 32v,Ano 2011 , 107.484 km,R$ 322.000,Belo Horizonte - MG,USADO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/spirit-of-ecstasy/spirit-of-ecstasy-188975__340.jpg
 12,PORSCHE 911 GT2RS,Motor 3.0 32v,Ano 1992 , 908 km,R$ 194.000,Rio de Janeiro - RJ,USADO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/porsche-911-gt2rs/porsche-911-gt2rs-3076518__340.jpg
 13,KOENIGSEGG,Motor 2.4 Turbo,Ano 2015 , 22.485 km,R$ 469.000,São Paulo - SP,USADO,https://caelum-online-public.s3.amazonaws.com/1381-scraping/01/img-cars/koenigsegg/koenigsegg-2086612__340.jpg
