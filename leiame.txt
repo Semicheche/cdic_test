@@ -1,0 +1,20 @@
+CSV gerado no scraping
+como o site saiu do ar, não conseguimos fazer correções para os seguintes problemas:
+
+cars
+- gerou uma mesma pk para 2 carros diferentes e removemos o segundo
+- Ano, Valor, KM: deveria ser apenas números, mas geramos com texto
+
+acessories
+- gerou uma mesma pk para 2 carros diferentes e removemos o segundo
+- descrição do acessório: faltou espaços entre as palavras
+--------------------------------------------------------------------------------------------------------
+Importação CSV no BD:
+- cars: 249 registros
+- acessories: 999 registros
+
+removemos carros/acessórios que tinham mais de um registro, a fim de manter unicidade por carro:
+- cars: 20 registros
+- acessories: 83 registros
+
+*(Executar limpeza_db.sql)
