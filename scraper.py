@@ -51,6 +51,7 @@ def main():
     global url_padrao
     res = conecta_com_site(url_padrao)
     #Extrai o Valor do total de paginas
+    print(res)
     total_pagina = res.find('span', class_='info-pages').get_text().split(' ')[-1]
     print(f'Site com {total_pagina} paginas...\n')
     print('Scraping pagina principal...\n')
